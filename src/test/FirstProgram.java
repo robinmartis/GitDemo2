@@ -32,4 +32,18 @@ public class FirstProgram {
 		System.out.println("Print 22");
 		System.out.println("Print 3");
 	}
+	public void a2()
+	{
+		System.out.println("Print 1");
+		System.out.println("Print 22");
+		System.out.println("Print 3");
+	}
+	public void a3()
+	{
+		System.out.println("Print 1");
+		System.out.println("Print 22");
+		System.out.println("Print 3");
+	}
+	
+	
 }
