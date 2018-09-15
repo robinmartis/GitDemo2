@@ -22,6 +22,8 @@ public class FirstProgram {
 		System.out.println("Opening the browser 5");
 		System.out.println("Opening the browser 6");
 		
+		System.out.println("Opening the browser 7");
+		
 	}
 
 }
