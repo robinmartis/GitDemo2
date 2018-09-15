@@ -12,6 +12,10 @@ public class FirstProgram {
 		driver.get("http://localhost:8080/login.do");
 		Thread.sleep(2000);
 		driver.get("https://www.google.com");
+		
+		System.out.println("Opening the browser 1");
+		System.out.println("Opening the browser 2");
+		System.out.println("Opening the browser 3");
 	}
 
 }
