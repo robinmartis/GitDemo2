@@ -26,4 +26,10 @@ public class FirstProgram {
 		
 	}
 
+	public void a1()
+	{
+		System.out.println("Print 1");
+		System.out.println("Print 22");
+		System.out.println("Print 3");
+	}
 }

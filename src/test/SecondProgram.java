@@ -11,6 +11,11 @@ public class SecondProgram {
 		System.out.println("Sample program 6");
 		System.out.println("Sample program 7");
 		System.out.println("Sample program 8");
+		System.out.println("Sample program 9");
+		
+		System.out.println("Sample program 10");
+		System.out.println("Sample program 11");
+		
 	}
 
 }
