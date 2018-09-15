@@ -7,6 +7,8 @@ public class ThirdProgram {
 		System.out.println("Sample program 2");
 		System.out.println("Sample program 3");
 		System.out.println("Sample program 4");
+		System.out.println("Sample program 5");
+		System.out.println("Sample program 6");
 		
 	}
 
