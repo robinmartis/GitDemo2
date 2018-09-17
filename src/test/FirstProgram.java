@@ -52,4 +52,16 @@ public class FirstProgram {
 		System.out.println("Print 3");
 	}
 	
+	public void a()
+	{
+		System.out.println("Print 1");
+		System.out.println("Print 22");
+		System.out.println("Print 3");
+	}
+	public void a6()
+	{
+		System.out.println("Print 1");
+		System.out.println("Print 22");
+		System.out.println("Print 3");
+	}
 }
