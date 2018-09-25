@@ -38,4 +38,9 @@ public class B1 {
 	{
 		System.out.println("Running a1");
 	}
+	
+	public void a7()
+	{
+		System.out.println("Running a7");
+	}
 }

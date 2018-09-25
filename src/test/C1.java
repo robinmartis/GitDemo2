@@ -32,4 +32,12 @@ public class C1 {
 		System.out.println("sadasfasf");
 		System.out.println("sadasfasf");
 	}
+	
+	public void a5()
+	{
+		System.out.println("sadasfasf");
+		System.out.println("sadasfasf");
+		System.out.println("sadasfasf");
+		System.out.println("sadasfasf");
+	}
 }
