@@ -26,5 +26,7 @@ public class E1 {
 	public void a5()
 	{
 		System.out.println("Running a1");
+		System.out.println("Running a1");
+		System.out.println("Running a1");
 	}
 }

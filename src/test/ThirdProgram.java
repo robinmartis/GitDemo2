@@ -14,6 +14,14 @@ public class ThirdProgram {
 		System.out.println("Sample program 8");
 		System.out.println("Sample program 9");
 		System.out.println("Sample program 10");
+		System.out.println("Sample program 7");
+		System.out.println("Sample program 8");
+		System.out.println("Sample program 9");
+		System.out.println("Sample program 10");
+		System.out.println("Sample program 7");
+		System.out.println("Sample program 8");
+		System.out.println("Sample program 9");
+		System.out.println("Sample program 10");
 	}
 
 }
